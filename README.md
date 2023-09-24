@@ -31,7 +31,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://github.com/k3lux/AdviceGen-FrontendMentor)
-- Live Site URL: [Add live site URL here](https://advicegen.saqib.github.app)
+- Live Site URL: [Add live site URL here](https://k3lux.github.io/AdviceGen-FrontendMentor/src)
 
 ## My process
 
@@ -54,4 +54,4 @@ If you want more help with writing markdown, we'd recommend checking out [The Ma
 ## Author
 
 - Website - [Saqib](https://www.your-site.com)
-- Frontend Mentor - [@k3lux](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@k3lux](https://www.frontendmentor.io/profile/k3lux)
